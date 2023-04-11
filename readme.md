@@ -14,3 +14,5 @@ DKI生成程序，使用vida至少3个b值的图像，其中一个b值必须在1
 本程序自动调用多线程，推荐至少4核心@4GHz。
 如果使用exe程序需要matlab runtime 2022a，下面是下载地址
 https://ssd.mathworks.cn/supportfiles/downloads/R2022a/Release/0/deployment_files/installer/complete/win64/MATLAB_Runtime_R2022a_win64.zip
+
+![image](https://github.com/hzr0071/DKI-for-vida-MRI/blob/main/dwifolder/DKI-breast.png)
